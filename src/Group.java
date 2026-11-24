@@ -5,8 +5,8 @@ public class Group {
     private ArrayList<Expense> expenses;
 
     public Group() {
-        people = new ArrayList();
-        expenses = new ArrayList();
+        people = new ArrayList<>();
+        expenses = new ArrayList<>();
 
     }
 
